@@ -1,4 +1,4 @@
-Marketplace Solidity Smart Contract
+## Marketplace Solidity Smart Contract
 
 📦 Project Overview
 This is a simple Ethereum Marketplace smart contract written in Solidity (v0.8.0). It allows users to list items for sale and purchase listed items using Ether. The contract ensures secure transactions with checks on payment amounts and tracks sold items.
